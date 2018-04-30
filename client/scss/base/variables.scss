@@ -17,9 +17,10 @@ $widescreen: 1180px !default;
 // --------------------------------------
 // COLORS
 // --------------------------------------
-
+$primary: 'cyan' ;
+$color-grey: #4e4f51;
 $color-text: mc('grey', '800');
-$color-link: mc('blue', '500');
-$color-link-hover: mc('blue', '700');
-$color-link-active: mc('purple', '500');
+$color-link: mc('cyan', '500');
+$color-link-hover: mc('cyan', '700');
+$color-link-active: mc('cyan', '500');
 $color-bg: #F4F5F9;
